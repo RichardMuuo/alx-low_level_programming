@@ -1,5 +1,9 @@
 #include <stdio.h>
-
+/**
+ * main()prints sizes of datatypes by using sizeof() operator
+ *
+ * return 0
+ */
 int main(void)
 {
 char c;
@@ -14,5 +18,5 @@ printf("size of long int:%lu.\n", (unsigned long)sizeof(li));
 printf("size of long long int:%lu.\n", (unsigned long)sizeof(lli));
 printf("size of float:%lu.\n", (unsigned long)sizeof(f));
 
-return 0;
+return (0);
 }
