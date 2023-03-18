@@ -1,11 +1,5 @@
 #include <stdio.h>
 
-/**
-* main - prints the sizes of datatypes using sizeof() operator
-*code by ritchie
-*return 0
-*/
-
 int main(void)
 {
 char c;
