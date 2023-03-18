@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
- * main()prints sizes of datatypes by using sizeof() operator
+ * main - prints sizes of datatypes by using sizeof() operator
  *
- * return 0
+ * Return: 0
  */
 int main(void)
 {
