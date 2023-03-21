@@ -8,6 +8,6 @@
  * On error, -1is returned, and errno is set appropriately.
  */
 int _putchare (char c);
-}
-	return (write(1, &c, 1));
+{
+return (write(1, &c, 1));
 }
